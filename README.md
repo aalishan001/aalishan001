@@ -1,16 +1,16 @@
-## Hi there 👋
+## Aalishan Khan
+Backend engineer in Bengaluru. Currently building a multi-tenant B2B ESG platform —
+TypeScript/Node · PostgreSQL · AWS/GCP.
 
-<!--
-**aalishan001/aalishan001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Recent work (employer/client repos, so private):**
+- PostgreSQL RLS multi-tenant isolation — tenant separation as a fail-secure DB invariant
+  across every tenant-scoped table (OWASP A01/A05)
+- 76 → 3,091 rows/sec (40x) pipeline optimization — 55k records in 17 seconds
+- Provenance-directed AI report engine — ~30% faster generation, 100+ web-grounded cited
+  disclosures per report, SSRF-hardened
+- Previously: led a 3-engineer team on a marketplace that passed 10,000 users with zero
+  system-design changes; CI/CD and k6 load-testing infrastructure
 
-Here are some ideas to get you started:
+**Now:** daily DSA in Python → [neetcode-submissions](https://github.com/aalishan001/neetcode-submissions)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 [LinkedIn](https://www.linkedin.com/in/aalishan001)
