@@ -6,11 +6,11 @@ I build the parts you don't see: databases that keep tenants apart, AI pipelines
 
 **Selected work** ([the full BragDoc](https://aalishan001.com/bragdoc))
 
-- [Built Passiton's curated Redis-backed feed: 300+ listings in under 2 s](https://aalishan001.com/bragdoc#passiton-curated-redis-backed-feed)
-- [Migrated Passiton's ~8,000 records to Supabase with zero downtime](https://aalishan001.com/bragdoc#passiton-records-supabase-zero-downtime)
+- [Moved Passiton's API to GCP Cloud Run with dual-track CI/CD](https://aalishan001.com/bragdoc#passiton-api-gcp-cloud-run) · VPS → Cloud Run, zero downtime
 - [Resolved a 1-hour GHAStep outage with a zero-downtime database cleanup](https://aalishan001.com/bragdoc#ghastep-outage-zero-downtime-database) · Database size −60%
-- [Cut GHAStep's screen navigation from ~5 s to under 1 s](https://aalishan001.com/bragdoc#ghastep-screen-navigation)
-- [Cut Shell's legacy cash-collection hosting cost 46%](https://aalishan001.com/bragdoc#shell-legacy-cash-collection-hosting)
+- [Cut GHAStep's two-player score-update latency by over 90% with Redis pub/sub](https://aalishan001.com/bragdoc#ghastep-two-player-score-update) · Score sync 5 s → under 500 ms
+- [Built Passiton's curated Redis-backed feed: 300+ listings in under 2 s](https://aalishan001.com/bragdoc#passiton-curated-redis-backed-feed)
+- [One-button PeopleMS client builds, kept separate from the product codebase](https://aalishan001.com/bragdoc#one-button-client-builds-peoplems) · Client builds: ad hoc → one button
 
 [aalishan001.com](https://aalishan001.com) · [Medium](https://medium.com/@aalishan001) · [LinkedIn](https://linkedin.com/in/aalishan001)
 <!-- COCKPIT:END -->
