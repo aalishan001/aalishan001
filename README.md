@@ -1,16 +1,22 @@
-## Aalishan Khan
-Backend engineer in Bengaluru. Currently building a multi-tenant B2B ESG platform —
-TypeScript/Node · PostgreSQL · AWS/GCP.
+## Aalishan
+<!-- COCKPIT:START -->
+<!-- Written by cockpit on every website promote. Edit outside the COCKPIT markers; anything inside is replaced. -->
+Backend engineer in Bengaluru.\
+I build the parts you don't see: databases that keep tenants apart, AI pipelines that don't waste tokens, and the infrastructure that survives launch day.
 
-**Recent work (employer/client repos, so private):**
-- PostgreSQL RLS multi-tenant isolation — tenant separation as a fail-secure DB invariant
-  across every tenant-scoped table (OWASP A01/A05)
-- 76 → 3,091 rows/sec (40x) pipeline optimization — 55k records in 17 seconds
-- Provenance-directed AI report engine — ~30% faster generation, 100+ web-grounded cited
-  disclosures per report, SSRF-hardened
-- Previously: led a 3-engineer team on a marketplace that passed 10,000 users with zero
-  system-design changes; CI/CD and k6 load-testing infrastructure
+**Selected work** ([the full BragDoc](https://aalishan001.com/bragdoc))
+
+- [Built Passiton's curated Redis-backed feed: 300+ listings in under 2 s](https://aalishan001.com/bragdoc#passiton-curated-redis-backed-feed)
+- [Migrated Passiton's ~8,000 records to Supabase with zero downtime](https://aalishan001.com/bragdoc#passiton-records-supabase-zero-downtime)
+- [Resolved a 1-hour GHAStep outage with a zero-downtime database cleanup](https://aalishan001.com/bragdoc#ghastep-outage-zero-downtime-database) · Database size −60%
+- [Cut GHAStep's screen navigation from ~5 s to under 1 s](https://aalishan001.com/bragdoc#ghastep-screen-navigation)
+- [Cut Shell's legacy cash-collection hosting cost 46%](https://aalishan001.com/bragdoc#shell-legacy-cash-collection-hosting)
+
+[aalishan001.com](https://aalishan001.com) · [Medium](https://medium.com/@aalishan001) · [LinkedIn](https://linkedin.com/in/aalishan001)
+<!-- COCKPIT:END -->
 
 **Now:** daily DSA in Python → [neetcode-submissions](https://github.com/aalishan001/neetcode-submissions)
 
-📫 [LinkedIn](https://www.linkedin.com/in/aalishan001)
+**Latest posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
