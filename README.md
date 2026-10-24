@@ -19,4 +19,6 @@ I build the parts you don't see: databases that keep tenants apart, AI pipelines
 
 **Latest posts**
 <!-- BLOG-POST-LIST:START -->
+- [Shared Agent Memory Leaks. Enforce the Boundary in PostgreSQL](https://medium.com/@aalishan001/shared-agent-memory-leaks-enforce-the-boundary-in-postgresql-1695bed0d928?source=rss-6aa9b975969------2)
+- [Long AI Chats Drift. I Built a Harness on Claude Code Instead](https://medium.com/@aalishan001/long-ai-chats-drift-i-built-a-harness-on-claude-code-instead-2130b7790dee?source=rss-6aa9b975969------2)
 <!-- BLOG-POST-LIST:END -->
