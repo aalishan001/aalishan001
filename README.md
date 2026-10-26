@@ -9,8 +9,8 @@ I build the parts you don't see: databases that keep tenants apart, AI pipelines
 - [Led Passiton's team and designed a system that reached 15,000+ users](https://aalishan001.com/bragdoc#passiton-team-designed-system-reached)
 - [Resolved a 1-hour GHAStep outage with a zero-downtime database cleanup](https://aalishan001.com/bragdoc#ghastep-outage-zero-downtime-database) · Database size −60%
 - [Cut GHAStep's two-player score-update latency by over 90% with Redis pub/sub](https://aalishan001.com/bragdoc#ghastep-two-player-score-update) · Score sync 5 s → under 500 ms
-- [Moved Passiton's API to GCP Cloud Run with dual-track CI/CD](https://aalishan001.com/bragdoc#passiton-api-gcp-cloud-run) · VPS → Cloud Run, zero downtime
-- [Built aalishan001.com, a portfolio my bragDoc keeps current on its own](https://aalishan001.com/bragdoc#aalishan001-com-portfolio-my-bragdoc) · Lighthouse 100 on a11y, BP and SEO
+- [Released adk-leak-arena, a red-team console for Google ADK agent memory](https://aalishan001.com/bragdoc#released-adk-leak-arena-red) · One of 10 picked at FORK. BUILD. MERGE.
+- [Released adk-memshield, database-enforced memory isolation for Google ADK agents](https://aalishan001.com/bragdoc#released-adk-memshield-database-enforced) · 0 of 40 attack queries leaked
 
 [aalishan001.com](https://aalishan001.com) · [Medium](https://medium.com/@aalishan001) · [LinkedIn](https://linkedin.com/in/aalishan001)
 <!-- COCKPIT:END -->
