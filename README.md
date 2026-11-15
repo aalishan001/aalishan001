@@ -12,7 +12,7 @@ I build the parts you don't see: databases that keep tenants apart, AI pipelines
 - [Designed cockpit, a harness-first command system on Claude Code](https://aalishan001.com/bragdoc#cockpit-harness-first-command-system) · opencockpit: 7 releases
 - [Released adk-memshield, database-enforced memory isolation for Google ADK agents](https://aalishan001.com/bragdoc#released-adk-memshield-database-enforced) · 0 of 40 attack queries leaked
 
-[aalishan001.com](https://aalishan001.com) · [Medium](https://medium.com/@aalishan001) · [LinkedIn](https://linkedin.com/in/aalishan001)
+[aalishan001.com](https://aalishan001.com) · [dev.to](https://dev.to/aalishan001) · [LinkedIn](https://linkedin.com/in/aalishan001)
 <!-- COCKPIT:END -->
 
 **Now:** daily DSA in Python → [neetcode-submissions](https://github.com/aalishan001/neetcode-submissions)
