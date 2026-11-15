@@ -19,7 +19,8 @@ I build the parts you don't see: databases that keep tenants apart, AI pipelines
 
 **Latest posts**
 <!-- BLOG-POST-LIST:START -->
-- [I Took a Memory Leak Arena to Google Ananta. It Got Picked](https://medium.com/@aalishan001/i-took-a-memory-leak-arena-to-google-ananta-it-got-picked-803e8b228491?source=rss-6aa9b975969------2)
-- [Shared Agent Memory Leaks. Enforce the Boundary in PostgreSQL](https://medium.com/@aalishan001/shared-agent-memory-leaks-enforce-the-boundary-in-postgresql-1695bed0d928?source=rss-6aa9b975969------2)
-- [Long AI Chats Drift. I Built a Harness on Claude Code Instead](https://medium.com/@aalishan001/long-ai-chats-drift-i-built-a-harness-on-claude-code-instead-2130b7790dee?source=rss-6aa9b975969------2)
+- [Agent Memory Is One Forgotten Filter Away From a Leak](https://dev.to/aalishan001/agent-memory-is-one-forgotten-filter-away-from-a-leak-m47)
+- [Long AI Chats Drift. I Built a Harness on Claude Code Instead](https://dev.to/aalishan001/long-ai-chats-drift-i-built-a-harness-on-claude-code-instead-398h)
+- [I Took a Memory Leak Arena to Google Ananta. It Got Picked](https://dev.to/aalishan001/i-took-a-memory-leak-arena-to-google-ananta-it-got-picked-5d1n)
+- [Shared Agent Memory Leaks. Enforce the Boundary in PostgreSQL](https://dev.to/aalishan001/shared-agent-memory-leaks-enforce-the-boundary-in-postgresql-228n)
 <!-- BLOG-POST-LIST:END -->
