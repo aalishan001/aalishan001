@@ -19,6 +19,7 @@ I build the parts you don't see: databases that keep tenants apart, AI pipelines
 
 **Latest posts**
 <!-- BLOG-POST-LIST:START -->
+- [I Automated a Friend&#39;s Job Search With Claude Code. The Hard Part Was Trust](https://dev.to/aalishan001/i-automated-a-friends-job-search-with-claude-code-the-hard-part-was-trust-1180)
 - [Agent Memory Is One Forgotten Filter Away From a Leak](https://dev.to/aalishan001/agent-memory-is-one-forgotten-filter-away-from-a-leak-m47)
 - [Long AI Chats Drift. I Built a Harness on Claude Code Instead](https://dev.to/aalishan001/long-ai-chats-drift-i-built-a-harness-on-claude-code-instead-398h)
 - [I Took a Memory Leak Arena to Google Ananta. It Got Picked](https://dev.to/aalishan001/i-took-a-memory-leak-arena-to-google-ananta-it-got-picked-5d1n)
