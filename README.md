@@ -7,10 +7,10 @@ I build the parts you don't see: databases that keep tenants apart, AI pipelines
 **Selected work** ([the full bragDoc](https://aalishan001.com/bragdoc))
 
 - [Led Passiton's team and designed a system that reached 15,000+ users](https://aalishan001.com/bragdoc#passiton-team-designed-system-reached)
-- [Released adk-leak-arena, a red-team console for Google ADK agent memory](https://aalishan001.com/bragdoc#released-adk-leak-arena-red) · One of 10 picked at FORK. BUILD. MERGE.
+- [Released adk-leak-arena, a red-team console for AI agent memory](https://aalishan001.com/bragdoc#released-adk-leak-arena-red) · One of 10 picked at FORK. BUILD. MERGE.
 - [Resolved a 1-hour GHAStep outage with a zero-downtime database cleanup](https://aalishan001.com/bragdoc#ghastep-outage-zero-downtime-database) · Database size −60%
+- [Released adk-memshield, database-enforced memory isolation for AI agents](https://aalishan001.com/bragdoc#released-adk-memshield-database-enforced) · 0 of 40 attack queries leaked
 - [Designed cockpit, a harness-first command system on Claude Code](https://aalishan001.com/bragdoc#cockpit-harness-first-command-system) · opencockpit: 8 releases
-- [Released adk-memshield, database-enforced memory isolation for Google ADK agents](https://aalishan001.com/bragdoc#released-adk-memshield-database-enforced) · 0 of 40 attack queries leaked
 
 [aalishan001.com](https://aalishan001.com) · [dev.to](https://dev.to/aalishan001) · [LinkedIn](https://linkedin.com/in/aalishan001)
 <!-- COCKPIT:END -->
