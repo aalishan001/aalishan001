@@ -19,9 +19,9 @@ I build the parts you don't see: databases that keep tenants apart, AI pipelines
 
 **Latest posts**
 <!-- BLOG-POST-LIST:START -->
+- [A Reader Found a Silent Failure in My Postgres Memory Library. Here&#39;s the Fix](https://dev.to/aalishan001/a-reader-found-a-silent-failure-in-my-postgres-memory-library-heres-the-fix-1hh8)
 - [I Automated a Friend&#39;s Job Search With Claude Code. The Hard Part Was Trust](https://dev.to/aalishan001/i-automated-a-friends-job-search-with-claude-code-the-hard-part-was-trust-1180)
 - [Agent Memory Is One Forgotten Filter Away From a Leak](https://dev.to/aalishan001/agent-memory-is-one-forgotten-filter-away-from-a-leak-m47)
 - [Long AI Chats Drift. I Built a Harness on Claude Code Instead](https://dev.to/aalishan001/long-ai-chats-drift-i-built-a-harness-on-claude-code-instead-398h)
 - [I Took a Memory Leak Arena to Google Ananta. It Got Picked](https://dev.to/aalishan001/i-took-a-memory-leak-arena-to-google-ananta-it-got-picked-5d1n)
-- [Shared Agent Memory Leaks. Enforce the Boundary in PostgreSQL](https://dev.to/aalishan001/shared-agent-memory-leaks-enforce-the-boundary-in-postgresql-228n)
 <!-- BLOG-POST-LIST:END -->
